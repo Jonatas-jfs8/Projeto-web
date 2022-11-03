@@ -1,0 +1,38 @@
+.conteudo{
+    width: 100vw;
+    height: 100vw;
+    background: rgb(231, 233, 233);
+    display: flex;
+}
+.texto{
+    width: 55vw;
+    height: 100vw;
+    text-align: left; 
+}
+.titulo {
+    font-size: 28pt;
+    color: rgb(72, 0, 172);
+}
+.lista{
+    font: Impact;
+    font-size: 13pt;
+    font-weight: 700;
+    margin: 45pt 1pt;
+    letter-spacing: 1pt;
+    color: rgb(44, 15, 83)
+}
+.item{
+    margin: 8pt 1pt;
+}
+.resposta{
+    font-style: italic;
+    color: rgb(82, 36, 143);
+}
+.subitem{
+    margin: 11pt 20pt;
+}
+.imagem{
+    width: 45vw;
+    height: 100vw;
+    text-align: left;
+}
